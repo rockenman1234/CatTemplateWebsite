@@ -14,7 +14,7 @@ fetch(url)
             infoBox.classList.add('info-box');
             
             let header = document.createElement('h3');
-            header.innerText = 'Cat Image Info';
+            header.innerText = 'Cat Info';
             
             let paragraph = document.createElement('p');
             paragraph.innerText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
